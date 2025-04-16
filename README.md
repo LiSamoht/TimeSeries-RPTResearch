@@ -10,3 +10,5 @@ https://arxiv.org/pdf/1603.03788
 
 Signature Methods in Machine Learning
 https://arxiv.org/pdf/2206.14674
+
+Presentation on May 8, 3PM Petaluma Student Center
